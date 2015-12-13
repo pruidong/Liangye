@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+        >
+
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:background="@drawable/about_lv_item_selected"
+            >
+
+        <ImageView
+                android:id="@+id/about_item_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="2dp"
+                android:src="@drawable/lv_aboutapp"
+                />
+
+        <TextView
+                android:id="@+id/about_item_title"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:textSize="14sp"
+                android:textColor="@color/white"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="这里是示例文字"
+                />
+
+        <ImageView
+                android:layout_gravity="right"
+                android:layout_marginRight="2dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/lv_item_right_arrow"
+                />
+
+    </LinearLayout>
+</RelativeLayout>

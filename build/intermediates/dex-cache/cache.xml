@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/puruidong/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/pre-dexed/debug/gson-2.3.1-b3cc1ab2bd71d9bd036cc53ab47a8d0b1ab1af92.jar" />
+    </item>
+    <item
+        jar="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/pre-dexed/debug/classes-9fd339adfcbf9f70bee0238c0e3106c0ba86bf32.jar" />
+    </item>
+    <item
+        jar="/home/puruidong/Soft/androidsdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-b552688c1570647910c977241f63d660d99e0308.jar" />
+    </item>
+    <item
+        jar="/home/puruidong/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.18/38da306aafee11459cd935a01d2c92a98dc670a4/library-1.0.18.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="38da306aafee11459cd935a01d2c92a98dc670a4">
+        <dex dex="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/pre-dexed/debug/library-1.0.18-139678845bb03e1f0593a4080fffc3724a3be5cd.jar" />
+    </item>
+    <item
+        jar="/home/puruidong/Code/IdeaProjects/Liangye/app/libs/open_sdk_r5043.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="fbc2fb9bce736c4b6d9146b932c4bf7a473f5786">
+        <dex dex="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/pre-dexed/debug/open_sdk_r5043-35eed4395c1def9a9480ea2d4d4a34e05a56f112.jar" />
+    </item>
+    <item
+        jar="/home/puruidong/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.18/38da306aafee11459cd935a01d2c92a98dc670a4/library-1.0.18.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="38da306aafee11459cd935a01d2c92a98dc670a4">
+        <dex dex="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/pre-dexed/debug/library-1.0.18-139678845bb03e1f0593a4080fffc3724a3be5cd.jar" />
+    </item>
+    <item
+        jar="/home/puruidong/Code/IdeaProjects/Liangye/app/libs/umeng-update-v2.6.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e76510af0986842b672c59d29502f3d29866320a">
+        <dex dex="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/pre-dexed/debug/umeng-update-v2.6.0.1-08ed6df366171494e1ab5aa7fee3a47c5a01c62e.jar" />
+    </item>
+    <item
+        jar="/home/puruidong/.gradle/caches/modules-2/files-2.1/com.umeng.analytics/analytics/5.6.1/b2705cbb19f52bb4d242458163a98d9e889c1292/analytics-5.6.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b2705cbb19f52bb4d242458163a98d9e889c1292">
+        <dex dex="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/pre-dexed/debug/analytics-5.6.1-a379aed3bef973c6838b31d5cb64fd9cdf2f39b9.jar" />
+    </item>
+    <item
+        jar="/home/puruidong/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-android/4.48/afa06f539a4026c10b247386312aa67404b80a16/ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/pre-dexed/debug/ormlite-android-4.48-1a0408bf962603427403d905def1b1433fea7fab.jar" />
+    </item>
+    <item
+        jar="/home/puruidong/Code/IdeaProjects/Liangye/app/libs/yixin_androidsdk_v2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="74e9527b03381a3db778f0bc648ae95364ac1c23">
+        <dex dex="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/pre-dexed/debug/yixin_androidsdk_v2.2.2-c5a6c7a60876beedd6ba603226faa8e464d2e9b3.jar" />
+    </item>
+    <item
+        jar="/home/puruidong/Soft/androidsdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-b552688c1570647910c977241f63d660d99e0308.jar" />
+    </item>
+    <item
+        jar="/home/puruidong/Code/IdeaProjects/Liangye/app/libs/wx_androidsdk.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/pre-dexed/debug/wx_androidsdk-92f3ad0dca63c1341e96214b0ddd3bfed51ce494.jar" />
+    </item>
+    <item
+        jar="/home/puruidong/Code/IdeaProjects/Liangye/app/libs/weiboSDKCore_3.1.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1c0bfcddc15de1e8a90ff166da0b9abe011346af">
+        <dex dex="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/pre-dexed/debug/weiboSDKCore_3.1.2-4fa8fd5c6c63628d7c48f3124b9ced382e02a1a2.jar" />
+    </item>
+    <item
+        jar="/home/puruidong/Code/IdeaProjects/Liangye/app/libs/mta-sdk-1.6.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/pre-dexed/debug/mta-sdk-1.6.2-576e24a35b70e31ddac5e716a65a7c4cb90bb062.jar" />
+    </item>
+    <item
+        jar="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/pre-dexed/debug/classes-7728a030ed45f73c29b6303e3accc198c19e2a16.jar" />
+    </item>
+    <item
+        jar="/home/puruidong/Code/IdeaProjects/Liangye/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-eb024f4b2acb3b877e61eba7f06ec422b0e2aacb.jar" />
+    </item>
+    <item
+        jar="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-359af01a04ce3a7999ac61265f999b7a0bd1df69.jar" />
+    </item>
+    <item
+        jar="/home/puruidong/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-core/4.48/e579bd2905d0399af5029aaaf9817d5fa0ca88a5/ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/pre-dexed/debug/ormlite-core-4.48-a609ca99f63a5b5edeb1963d1728b7e61600d540.jar" />
+    </item>
+    <item
+        jar="/home/puruidong/Code/IdeaProjects/Liangye/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-eb024f4b2acb3b877e61eba7f06ec422b0e2aacb.jar" />
+    </item>
+    <item
+        jar="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/pre-dexed/debug/classes-7728a030ed45f73c29b6303e3accc198c19e2a16.jar" />
+    </item>
+    <item
+        jar="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/pre-dexed/debug/classes-9fd339adfcbf9f70bee0238c0e3106c0ba86bf32.jar" />
+    </item>
+    <item
+        jar="/home/puruidong/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/pre-dexed/debug/gson-2.3.1-b3cc1ab2bd71d9bd036cc53ab47a8d0b1ab1af92.jar" />
+    </item>
+    <item
+        jar="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/puruidong/Code/IdeaProjects/Liangye/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-359af01a04ce3a7999ac61265f999b7a0bd1df69.jar" />
+    </item>
+
+</items>

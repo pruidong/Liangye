@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:focusable="true"
+              android:focusableInTouchMode="true"
+              android:padding="10dp"
+        >
+
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/feedback_infos"
+            android:textColor="@color/darkgray"
+            />ud
+
+    <EditText
+            android:id="@+id/feedback_contextinfo"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:gravity="top"
+            android:singleLine="false"
+            android:textColor="@color/black"
+            android:background="@drawable/bg_edittext"
+            />
+
+    <EditText
+            android:id="@+id/feedback_user_contactsinfo"
+            android:hint="@string/feedback_contact_infos"
+            android:textColorHint="@color/black"
+            android:layout_width="match_parent"
+            android:textColor="@color/black"
+            android:layout_height="30dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/bg_edittext"
+            android:inputType="textEmailAddress"
+            />
+
+    <EditText
+            android:id="@+id/feedback_user_name"
+            android:hint="@string/feedback_username"
+            android:textColorHint="@color/black"
+            android:layout_width="match_parent"
+            android:textColor="@color/black"
+            android:layout_height="30dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/bg_edittext"
+            />
+
+    <Button
+            android:id="@+id/feedback_save_infos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="20dp"
+            android:text="提  交"
+            />
+
+</LinearLayout>

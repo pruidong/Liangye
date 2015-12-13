@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                        android:id="@+id/about_drawer_layout"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+    >
+
+        <ListView
+                android:id="@+id/lv_about"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+        />
+
+
+        <android.support.v4.view.ViewPager
+                android:id="@+id/vp_about_ad"
+                android:layout_width="wrap_content"
+                android:layout_height="65dp"
+                android:layout_marginTop="2dp"
+                android:layout_alignBottom="@+id/lv_about"
+        />
+
+        <LinearLayout
+                android:id="@+id/iv_vp_about_position"
+                android:layout_width="match_parent"
+                android:layout_height="20sp"
+                android:gravity="center_horizontal|center_vertical"
+                android:orientation="horizontal"
+                android:paddingRight="10sp"
+                android:layout_alignParentBottom="true"
+                android:background="#b0000000"
+        >
+
+            <ImageView
+                    android:id="@+id/aboutad_iv_1"
+                    android:layout_width="15sp"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/img_point_selected"
+            />
+
+            <ImageView
+                    android:id="@+id/aboutad_iv_2"
+                    android:layout_width="15sp"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/img_point"
+            />
+
+            <ImageView
+                    android:id="@+id/aboutad_iv_3"
+                    android:layout_width="15sp"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/img_point"
+            />
+
+            <ImageView
+                    android:id="@+id/aboutad_iv_4"
+                    android:layout_width="15sp"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/img_point"
+            />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <!--<ListView
+            android:id="@+id/drawer_lv_content"
+            android:layout_width="240dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:background="@color/darkgray"
+            android:choiceMode="singleChoice"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="0dp"
+            />-->
+
+    <LinearLayout
+            android:id="@+id/drawlayout_lmain"
+            android:layout_width="240dp"
+            android:layout_height="match_parent"
+            android:background="#e0000000"
+            android:layout_gravity="start"
+            android:orientation="vertical"
+            android:clickable="true"
+    >
+
+        <LinearLayout
+                android:layout_width="220dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+        >
+
+            <TextView
+                    android:text="自动设置桌面:"
+                    android:layout_width="1dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+            />
+
+            <Switch
+                    android:id="@+id/sw_autosetdestop"
+                    android:textOff="手动"
+                    android:textOn="自动"
+                    android:layout_weight="1"
+                    android:checked="false"
+                    android:layout_width="1dp"
+                    android:layout_height="wrap_content"
+            />
+        </LinearLayout>
+
+
+        <TextView
+                android:textColor="@color/peru"
+                android:text="温馨提示:自动设置并不会根据日期来判断图片是否适合或者漂亮(比如万圣节),开启后,将风雨无阻滴帮您设置~~(一般在您休息的时候更新哦..)"
+                android:layout_width="220dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:textSize="10dp"
+        />
+    </LinearLayout>
+
+</android.support.v4.widget.DrawerLayout>

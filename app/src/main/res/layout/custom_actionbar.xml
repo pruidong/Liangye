@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_gravity="center_vertical"
+              android:layout_width="match_parent"
+              android:layout_height="22dp"
+        >
+
+
+    <Button
+            android:visibility="gone"
+            android:id="@+id/btn_actionbar_back"
+            android:background="@mipmap/btn_actionbar_back"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:textColor="@color/white"
+            />
+
+
+    <TextView
+            android:id="@+id/action_bar_title"
+            android:gravity="center_vertical|center"
+            android:textSize="16dp"
+            android:layout_centerInParent="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name"
+            />
+
+    <Button
+            android:visibility="gone"
+            android:id="@+id/btn_actionbar_showtools"
+            android:background="@mipmap/btn_actionbar_showtools"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:textColor="@color/white"
+            android:layout_alignParentRight="true"
+            />
+
+</RelativeLayout>

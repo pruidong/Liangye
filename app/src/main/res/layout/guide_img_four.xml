@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+        >
+
+    <ImageView
+            android:background="@mipmap/guide_app3"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            />
+
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            >
+
+        <Button
+                android:id="@+id/guide_btn_stmainactivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="60dp"
+                android:text="@string/guidestmainactivity"
+                android:background="@android:color/transparent"
+                />
+
+
+    </LinearLayout>
+
+</RelativeLayout>

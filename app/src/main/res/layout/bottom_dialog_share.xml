@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+        >
+
+    <HorizontalScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scrollbars="none"
+            >
+
+        <LinearLayout
+                android:id="@+id/bds_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+            <ImageButton
+                    android:id="@+id/btn_wxshare_friend"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/wx_share_friend"
+                    />
+
+            <ImageButton
+                    android:id="@+id/btn_wxshare_moments"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/wx_share_moments"
+                    />
+
+            <ImageButton
+                    android:id="@+id/btn_wxshare_collent"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/wx_share_collect"
+                    />
+
+            <ImageButton
+                    android:id="@+id/btn_yixinshare_friend"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/yixin_share_friend"
+                    />
+
+
+            <ImageButton
+                    android:id="@+id/btn_yixinshare_timeline"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/yixin_share_timeline"
+                    />
+
+            <ImageButton
+                    android:id="@+id/btn_yixinshare_collect"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/yixin_share_collect"
+                    />
+
+            <ImageButton
+                    android:id="@+id/btn_qqshare"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/qq_share"
+                    />
+
+            <ImageButton
+                    android:id="@+id/btn_qzoneshare"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/qzone_share"
+                    />
+
+
+            <!--<ImageButton
+                    android:id="@+id/btn_sinaweiboshare"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/sinaweibo_share"
+                    />-->
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <Button
+            android:id="@+id/btn_dialog_cancel"
+            android:text="@string/btmdialogcancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            />
+</LinearLayout>
